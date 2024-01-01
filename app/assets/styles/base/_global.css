@@ -11,3 +11,7 @@ img {
 * {
 	box-sizing: border-box; /* Change width calculation in the browser (padding not added after) */
 }
+
+a {
+	color: $mainOrange;
+}
